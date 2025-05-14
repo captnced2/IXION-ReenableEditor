@@ -11,5 +11,9 @@ Simply download [BepInEx](https://github.com/BepInEx/BepInEx/releases/tag/v6.0.0
 Then download and put the latest release into the plugins ("\IXION\BepInEx\plugins\") folder.  
 This mod **_requires_** the [IMHelper](https://github.com/captnced2/IXION-IMHelper/releases) mod see each release for the required version.
 
+# How to use
+Click the editor button to the left of the settings button in the top right corner.  
+Change the values at will.
+
 # Issues and Questions
 If you find any bugs please report them in the issues tab and for any questions simply ask in the [DOLOS A.E.C.](https://discord.gg/UMtuJrSmY3) modding channel (with ping pls) or message me directly (@captnced).
