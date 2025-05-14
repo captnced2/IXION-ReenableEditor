@@ -1,5 +1,5 @@
 # Reenable Editor
-[Nexusmods]()  
+[Nexusmods](https://www.nexusmods.com/ixion/mods/16)  
 <br>
 The Editor was already built into the game, I discovered it when coding mods. This mod simply enables it again with a few lines of code.  
 The settings that you can change save automatically. 
